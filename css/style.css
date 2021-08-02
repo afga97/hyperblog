@@ -1,5 +1,5 @@
 body {
-
+    background-color: gray;
     color: #333;
     text-align: left;
     font-family: Arial;
@@ -24,6 +24,7 @@ body {
 }
 
 #container {
+    background-color: white;
     width: 70%;
     padding: 0;
     text-align:left;
@@ -35,6 +36,8 @@ body {
     font-size: 20px;
 }
 
-#container-img {
-    text-align:center;
+#container img {
+    vertical-align: middle;
+    width: 101px;
+    height: 56px;
 }
